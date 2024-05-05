@@ -24,7 +24,6 @@ prompt=ChatPromptTemplate.from_messages(
     ]
 )
 
-print(prompt.messages)
 ## streamlit framework
 
 st.title('Langchain Demo With OPENAI API')
